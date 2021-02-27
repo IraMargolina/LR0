@@ -10,4 +10,3 @@ if d >= 0:
     print('x2 = ' + str(x2))
 else: 
     print('Нет корней')
-   
